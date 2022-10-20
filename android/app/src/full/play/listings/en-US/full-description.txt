@@ -1,0 +1,9 @@
+The official app for HomeLand. HomeLand for Android lets you control all your devices in your HomeLand instance. 
+
+HomeLand is an open-source home automation platform that focuses on privacy and local control.
+
+HomeLand for Android requires that you have access to a HomeLand instance.
+
+For documentation around the application please see https://companion.home-land.io/
+
+We are also working on supporting Wear OS.  If interested be sure to check out the beta!

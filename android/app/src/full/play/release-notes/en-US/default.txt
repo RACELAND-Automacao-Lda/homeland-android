@@ -1,0 +1,1 @@
+Full release change log: https://github.com/home-land/android/releases/latest
